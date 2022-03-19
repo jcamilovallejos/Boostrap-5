@@ -1,0 +1,44 @@
+*{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+@media(min-width: 992px){
+    .alto-100{
+        height: 100vh;
+    }
+}
+
+.purple-card{
+    background-color: lightblue;
+    background-image:  url("../images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: 85% top;
+} 
+
+.gray-card{
+    background-color: #49556B;
+}
+
+.dark-card{
+    background-color: #18202D;
+}
+
+.dark-card-title{
+    color: white;
+}
+
+.light-card-title{
+    color: #4D5358;
+}
+
+.dark-subtitle{
+    color: #4F545F;
+}
+
+div.ps-3 p{
+    color: #7A879A;
+}
+
+p.fs-6{
+    color: #7D838F;  
+}
